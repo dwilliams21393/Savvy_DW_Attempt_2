@@ -5,7 +5,6 @@
 #purpose: Understanding Condoitional Statement Else If
 
 #Variables
-Variables=$Number
 
 echo "Please enter a number."
 read Number
@@ -14,11 +13,9 @@ echo "Your number is $Number"
 sleep 3
  
 if (( $Number > 5 ))
-    then 
-        echo "Your number is greater than 5."
+    then echo "Your number is greater than 5."
 elif (( $Number < 5 ))
-    then 
-        echo "Your number is less than 5."
+    then echo "Your number is less than 5."
 else echo "Your number is equal to 5."
 fi
 sleep 3
