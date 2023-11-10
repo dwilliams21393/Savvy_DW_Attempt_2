@@ -1,7 +1,7 @@
 #!/bin/bash
 #script ops 201 class Ops Challenge Solutions
 #Author: Dylan Williams
-#Nov 7 2023
+#Nov 9 2023
 #purpose: Understanding Functions
 
 #Variables
